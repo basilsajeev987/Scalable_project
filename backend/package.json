@@ -5,7 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node api/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@azure/storage-blob": "^12.29.1",
